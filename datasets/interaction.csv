@@ -1,0 +1,211 @@
+whours,gender,age,educ,marital,health,healthage
+16,women,43,university,single,5,215
+8,men,36,more than university,single,6=Very important,216
+48,men,20,secondary/high,single,4,80
+12,women,44,secondary/high,married,6=Very important,264
+8,women,29,more than university,married,4,116
+20,men,30,more than university,married,4,120
+40,men,20,secondary/high,single,5,100
+12,women,43,more than university,married,6=Very important,258
+12,women,21,secondary/high,single,6=Very important,126
+24,men,36,secondary/high,married,6=Very important,216
+24,men,46,secondary/high,single,4,184
+16,women,45,more than university,married,5,225
+16,women,47,university,married,6=Very important,282
+8,men,37,university,single,5,185
+20,women,50,more than university,married,6=Very important,300
+12,women,26,secondary/high,single,6=Very important,156
+16,women,31,more than university,single,5,155
+8,women,36,more than university,single,6=Very important,216
+4,men,39,more than university,married,5,195
+16,women,52,more than university,single,6=Very important,312
+8,women,62,university,married,5,310
+12,women,48,university,single,4,192
+20,men,18,secondary/high,single,5,90
+8,men,34,more than university,single,4,136
+8,women,38,more than university,married,3,114
+20,men,18,secondary/high,single,6=Very important,108
+16,men,58,secondary/high,married,6=Very important,348
+12,women,35,more than university,single,6=Very important,210
+16,men,71,university,married,5,355
+12,women,45,secondary/high,single,6=Very important,270
+16,women,43,secondary/high,married,6=Very important,258
+12,women,36,university,married,6=Very important,216
+12,men,44,more than university,married,3,132
+20,women,67,more than university,married,6=Very important,402
+36,men,21,secondary/high,single,5,105
+16,women,42,secondary/high,married,5,210
+12,women,37,more than university,married,2,74
+20,men,46,more than university,single,5,230
+12,women,42,university,married,6=Very important,252
+8,women,42,more than university,married,6=Very important,252
+28,men,26,secondary/high,single,4,104
+8,women,38,secondary/high,married,5,190
+16,women,42,more than university,married,5,210
+4,women,28,more than university,single,1=Not important at all,28
+24,men,23,secondary/high,single,4,92
+12,women,27,more than university,single,5,135
+4,women,18,secondary/high,single,4,72
+12,women,44,secondary/high,married,6=Very important,264
+8,women,39,university,married,6=Very important,234
+12,women,50,more than university,married,6=Very important,300
+4,women,47,more than university,married,5,235
+20,women,38,university,single,6=Very important,228
+8,men,53,secondary/high,married,6=Very important,318
+4,men,41,more than university,single,6=Very important,246
+8,women,57,university,married,5,285
+28,women,32,more than university,married,6=Very important,192
+8,women,35,more than university,single,3,105
+8,women,37,more than university,married,4,148
+16,men,51,secondary/high,single,4,204
+16,women,31,university,married,4,124
+20,women,50,university,married,6=Very important,300
+20,men,25,secondary/high,single,6=Very important,150
+12,women,37,more than university,married,5,185
+20,women,24,more than university,single,5,120
+12,women,34,more than university,single,6=Very important,204
+8,women,43,university,married,6=Very important,258
+8,women,47,more than university,married,5,235
+20,women,25,secondary/high,single,6=Very important,150
+8,women,57,more than university,single,6=Very important,342
+8,women,35,more than university,married,3,105
+16,men,47,university,married,5,235
+8,women,55,more than university,married,6=Very important,330
+16,men,48,secondary/high,single,6=Very important,288
+12,women,45,more than university,single,6=Very important,270
+24,women,23,university,single,5,115
+16,women,62,more than university,married,6=Very important,372
+12,women,54,university,married,5,270
+8,women,34,university,married,4,136
+12,women,43,more than university,married,6=Very important,258
+16,women,34,more than university,single,6=Very important,204
+12,women,55,secondary/high,married,6=Very important,330
+12,men,45,more than university,married,6=Very important,270
+8,men,39,university,married,6=Very important,234
+8,women,35,university,married,6=Very important,210
+32,women,27,secondary/high,married,4,108
+12,men,48,more than university,married,4,192
+4,men,47,secondary/high,single,3,141
+8,men,16,secondary/high,single,5,80
+12,men,41,university,married,6=Very important,246
+12,men,43,more than university,married,4,172
+8,women,57,secondary/high,married,6=Very important,342
+20,women,16,secondary/high,single,6=Very important,96
+16,men,76,more than university,married,4,304
+24,women,21,secondary/high,single,6=Very important,126
+8,women,48,more than university,married,5,240
+4,men,44,more than university,married,5,220
+12,women,60,secondary/high,married,6=Very important,360
+12,women,54,university,married,6=Very important,324
+8,women,41,more than university,married,5,205
+16,men,18,secondary/high,single,6=Very important,108
+8,women,32,more than university,single,5,160
+12,women,44,university,single,6=Very important,264
+12,men,32,more than university,single,6=Very important,192
+16,women,45,more than university,married,6=Very important,270
+16,men,17,secondary/high,single,4,68
+24,men,22,university,single,5,110
+20,women,43,university,single,6=Very important,258
+16,men,17,secondary/high,single,3,51
+16,women,48,secondary/high,single,5,240
+8,women,21,secondary/high,single,6=Very important,126
+20,women,46,university,single,6=Very important,276
+16,men,45,more than university,single,5,225
+12,women,33,more than university,single,6=Very important,198
+12,women,49,secondary/high,single,6=Very important,294
+28,men,42,more than university,married,6=Very important,252
+8,women,47,university,married,6=Very important,282
+8,women,43,university,married,6=Very important,258
+4,men,35,more than university,single,5,175
+16,men,17,secondary/high,single,5,85
+8,men,37,secondary/high,married,6=Very important,222
+8,men,31,secondary/high,single,5,155
+12,men,46,more than university,married,6=Very important,276
+24,men,17,secondary/high,single,4,68
+12,men,47,more than university,single,4,188
+24,men,16,secondary/high,single,1=Not important at all,16
+0,men,43,secondary/high,married,5,215
+12,women,18,secondary/high,single,6=Very important,108
+16,women,20,secondary/high,single,4,80
+8,women,43,university,married,1=Not important at all,43
+16,women,37,secondary/high,single,6=Very important,222
+16,women,39,more than university,married,6=Very important,234
+12,women,28,more than university,married,6=Very important,168
+4,women,18,secondary/high,single,5,90
+16,women,48,secondary/high,married,5,240
+12,men,47,more than university,married,6=Very important,282
+8,women,39,university,single,6=Very important,234
+20,women,52,more than university,married,6=Very important,312
+4,men,43,more than university,married,5,215
+12,women,52,secondary/high,married,6=Very important,312
+12,women,43,more than university,married,5,215
+12,women,17,secondary/high,single,1=Not important at all,17
+12,men,39,university,single,6=Very important,234
+8,men,39,university,married,6=Very important,234
+8,women,34,university,married,5,170
+8,men,40,more than university,married,6=Very important,240
+16,women,55,university,married,6=Very important,330
+0,men,30,more than university,married,5,150
+8,women,41,more than university,married,5,205
+8,women,37,more than university,married,3,111
+12,men,39,university,married,6=Very important,234
+8,women,48,more than university,married,6=Very important,288
+12,women,53,secondary/high,married,6=Very important,318
+4,men,47,secondary/high,married,5,235
+12,men,48,secondary/high,single,6=Very important,288
+4,men,59,more than university,married,3,177
+4,men,38,university,single,4,152
+4,women,33,university,single,6=Very important,198
+12,men,48,more than university,married,5,240
+12,women,28,secondary/high,single,6=Very important,168
+4,women,44,more than university,married,6=Very important,264
+20,women,25,university,single,5,125
+8,women,47,university,single,6=Very important,282
+12,women,37,more than university,married,3,111
+12,women,39,more than university,married,6=Very important,234
+12,men,51,more than university,married,6=Very important,306
+12,women,59,university,married,5,295
+8,men,34,secondary/high,single,5,170
+12,women,46,university,married,6=Very important,276
+12,men,24,university,single,6=Very important,144
+20,women,45,secondary/high,single,6=Very important,270
+4,men,59,more than university,married,6=Very important,354
+8,men,32,more than university,single,5,160
+20,women,40,secondary/high,married,5,200
+12,women,29,secondary/high,single,5,145
+32,men,38,university,married,6=Very important,228
+16,men,16,secondary/high,single,6=Very important,96
+24,women,63,university,married,6=Very important,378
+8,women,57,university,married,6=Very important,342
+4,women,50,secondary/high,married,6=Very important,300
+4,women,48,secondary/high,married,6=Very important,288
+8,men,47,university,married,5,235
+8,women,37,more than university,married,5,185
+0,women,42,university,single,4,168
+20,women,30,secondary/high,married,6=Very important,180
+20,men,25,secondary/high,single,6=Very important,150
+8,women,45,more than university,married,6=Very important,270
+8,women,39,more than university,single,5,195
+8,women,35,more than university,married,5,175
+20,men,44,secondary/high,single,6=Very important,264
+12,men,44,more than university,single,6=Very important,264
+12,women,35,university,married,6=Very important,210
+0,women,28,more than university,single,4,112
+12,men,69,university,married,5,345
+8,women,58,university,married,5,290
+0,women,35,university,single,6=Very important,210
+4,women,38,university,married,6=Very important,228
+12,men,42,more than university,married,4,168
+8,women,21,secondary/high,single,4,84
+24,men,23,more than university,single,3,69
+8,women,50,more than university,married,5,250
+4,women,51,secondary/high,married,5,255
+20,men,41,more than university,married,5,205
+8,women,36,more than university,single,6=Very important,216
+32,men,35,secondary/high,married,6=Very important,210
+4,women,56,secondary/high,married,5,280
+16,men,54,secondary/high,married,5,270
+8,men,56,university,married,5,280
+12,men,47,more than university,single,6=Very important,282
+0,men,33,university,single,6=Very important,198
+16,women,34,university,single,1=Not important at all,34
