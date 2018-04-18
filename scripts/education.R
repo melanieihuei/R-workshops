@@ -1,5 +1,5 @@
 
-## Health Investigation
+## Education Investigation
 #####################################################################
 ##### Download the dataset here:
 ##### https://github.com/melanieihuei/R-workshops/blob/master/datasets/education2000.csv
